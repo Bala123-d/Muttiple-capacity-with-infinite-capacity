@@ -71,3 +71,6 @@ print("--------------------------------------------------------------")
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
 
 ## Github :
+```
+https://github.com/Bala123-d/Muttiple-capacity-with-infinite-capacity.git
+```
